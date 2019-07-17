@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Rohit\Desktop\PlayMusic-master\Test\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Rohit\Desktop\PlayMusic-master\Test\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Rohit\Desktop\PlayMusic-master\Test\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Rohit\Desktop\PlayMusic-master\Test\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\41e0c1a080ebdc904eb03c4ec22c2f22\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\7d2bbb98d585a1c9c0bff59c1864a0a9\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\ac9d1750fcd30b220e146f117b0a2607\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\00f444614648e7e115a31e1997c4717e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\1bce64e555e8d14a42e72d0b27ca84c2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\8ba9c94d73bb9f9c12fbea115125e0f0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\6e6de98c19e2b3f51c39739bc5ee42ff\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\159c41fd51dc7bdebdd8f3227eb650e4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\b1d001a12ffa9abb25817af6be0fbb51\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\af2957119130864dee07172e77e9477e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\3960f44c8da0a3c0462dea634470b269\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\75876916b108065d0c5cbf1defdb193b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\06ac7ae10be2105cc997ca5e135a3468\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\f6bf13423aa60ec31a1cbf00ef52cd3d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\25e58459aa9e501f32e6168503052bf9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\325639058d780c563906bad14db1f158\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\e3b7fd654733f00c9a6dd00ab5220a5c\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\73370630191c6b4500510a8244c0539f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\efe5ad008aecaddff23a62cd99808d07\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\c2ad547260f0b1f711fa96fa58d95bad\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\fe01651b62ff407dfba41ac407d49295\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\746ec1758f19ee4f5e99b404d69b9712\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\29cc9957ff88094c8b2328ef4e44451c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\ee58d84160c5948cb51a660f4c26bc7d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\99211ee0d442190c14ab6564b712de0a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\4ed8b36e4149e11036b3e375c916ccd8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\d2d0284361f627623060ad07bf5aea78\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Rohit\Desktop\PlayMusic-master\Test\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Rohit\Desktop\PlayMusic-master\Test\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Rohit\Desktop\PlayMusic-master\Test\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\Rohit\Desktop\PlayMusic-master\Test\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from C:\Users\Rohit\Desktop\PlayMusic-master\Test\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Rohit\Desktop\PlayMusic-master\Test\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Rohit\Desktop\PlayMusic-master\Test\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Rohit\Desktop\PlayMusic-master\Test\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\Rohit\Desktop\PlayMusic-master\Test\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Rohit\Desktop\PlayMusic-master\Test\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Rohit\Desktop\PlayMusic-master\Test\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\Rohit\Desktop\PlayMusic-master\Test\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Rohit\Desktop\PlayMusic-master\Test\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Rohit\Desktop\PlayMusic-master\Test\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\7d2bbb98d585a1c9c0bff59c1864a0a9\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\7d2bbb98d585a1c9c0bff59c1864a0a9\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\325639058d780c563906bad14db1f158\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\325639058d780c563906bad14db1f158\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\e3b7fd654733f00c9a6dd00ab5220a5c\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\e3b7fd654733f00c9a6dd00ab5220a5c\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\325639058d780c563906bad14db1f158\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Rohit\Desktop\PlayMusic-master\Test\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\Rohit\Desktop\PlayMusic-master\Test\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\Rohit\Desktop\PlayMusic-master\Test\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\Rohit\Desktop\PlayMusic-master\Test\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\Rohit\Desktop\PlayMusic-master\Test\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Rohit\Desktop\PlayMusic-master\Test\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.apkglobal.test.MainActivity
+ADDED from C:\Users\Rohit\Desktop\PlayMusic-master\Test\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\Rohit\Desktop\PlayMusic-master\Test\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Rohit\Desktop\PlayMusic-master\Test\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Rohit\Desktop\PlayMusic-master\Test\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\Rohit\Desktop\PlayMusic-master\Test\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Rohit\Desktop\PlayMusic-master\Test\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\Rohit\Desktop\PlayMusic-master\Test\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\Rohit\Desktop\PlayMusic-master\Test\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Rohit\Desktop\PlayMusic-master\Test\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Rohit\Desktop\PlayMusic-master\Test\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\41e0c1a080ebdc904eb03c4ec22c2f22\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\41e0c1a080ebdc904eb03c4ec22c2f22\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\7d2bbb98d585a1c9c0bff59c1864a0a9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\7d2bbb98d585a1c9c0bff59c1864a0a9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\ac9d1750fcd30b220e146f117b0a2607\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\ac9d1750fcd30b220e146f117b0a2607\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\00f444614648e7e115a31e1997c4717e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\00f444614648e7e115a31e1997c4717e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\1bce64e555e8d14a42e72d0b27ca84c2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\1bce64e555e8d14a42e72d0b27ca84c2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\8ba9c94d73bb9f9c12fbea115125e0f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\8ba9c94d73bb9f9c12fbea115125e0f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\6e6de98c19e2b3f51c39739bc5ee42ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\6e6de98c19e2b3f51c39739bc5ee42ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\159c41fd51dc7bdebdd8f3227eb650e4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\159c41fd51dc7bdebdd8f3227eb650e4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\b1d001a12ffa9abb25817af6be0fbb51\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\b1d001a12ffa9abb25817af6be0fbb51\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\af2957119130864dee07172e77e9477e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\af2957119130864dee07172e77e9477e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\3960f44c8da0a3c0462dea634470b269\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\3960f44c8da0a3c0462dea634470b269\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\75876916b108065d0c5cbf1defdb193b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\75876916b108065d0c5cbf1defdb193b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\06ac7ae10be2105cc997ca5e135a3468\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\06ac7ae10be2105cc997ca5e135a3468\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\f6bf13423aa60ec31a1cbf00ef52cd3d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\f6bf13423aa60ec31a1cbf00ef52cd3d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\25e58459aa9e501f32e6168503052bf9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\25e58459aa9e501f32e6168503052bf9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\325639058d780c563906bad14db1f158\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\325639058d780c563906bad14db1f158\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\e3b7fd654733f00c9a6dd00ab5220a5c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\e3b7fd654733f00c9a6dd00ab5220a5c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\73370630191c6b4500510a8244c0539f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\73370630191c6b4500510a8244c0539f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\efe5ad008aecaddff23a62cd99808d07\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\efe5ad008aecaddff23a62cd99808d07\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\c2ad547260f0b1f711fa96fa58d95bad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\c2ad547260f0b1f711fa96fa58d95bad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\fe01651b62ff407dfba41ac407d49295\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\fe01651b62ff407dfba41ac407d49295\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\746ec1758f19ee4f5e99b404d69b9712\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\746ec1758f19ee4f5e99b404d69b9712\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\29cc9957ff88094c8b2328ef4e44451c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\29cc9957ff88094c8b2328ef4e44451c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\ee58d84160c5948cb51a660f4c26bc7d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\ee58d84160c5948cb51a660f4c26bc7d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\99211ee0d442190c14ab6564b712de0a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\99211ee0d442190c14ab6564b712de0a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\4ed8b36e4149e11036b3e375c916ccd8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\4ed8b36e4149e11036b3e375c916ccd8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\d2d0284361f627623060ad07bf5aea78\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Rohit\.gradle\caches\transforms-2\files-2.1\d2d0284361f627623060ad07bf5aea78\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Rohit\Desktop\PlayMusic-master\Test\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Rohit\Desktop\PlayMusic-master\Test\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Rohit\Desktop\PlayMusic-master\Test\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Rohit\Desktop\PlayMusic-master\Test\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Rohit\Desktop\PlayMusic-master\Test\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Rohit\Desktop\PlayMusic-master\Test\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Rohit\Desktop\PlayMusic-master\Test\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Rohit\Desktop\PlayMusic-master\Test\app\src\main\AndroidManifest.xml
